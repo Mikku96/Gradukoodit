@@ -1,18 +1,10 @@
 # HUOM! Tämä scripti ei toimi tässä julkaisussa, sillä osa tarvittavista aliohjelmista eivät ole vapaassa jaossa. 
 ## Rakensin pipe_process2_clened.py scriptin yhdistääkseni useamman spektridatan manipulointiin liittyvän työvaiheen.
 
-Scriptit + skylines.txt.
-
-VIS kansio sisältää pari tiedostoa, jos tahtoo testata. Tämä toimii myös mallina kansiorakenteelle.
-Jos lataat siis tämän "Spektrikäsittely" kansion, toimii se pohjakansiona, minkä alla on VIS ja VIS_angs.
-Pidä scriptit tässä pohjakansiossa.
-
 # PIPELINE KÄYTTÖ
 ---
 
 ### Katso _pipe_process2_cleaned.py_ alusta kansiorakenne ohjeistus.
-
-# Huomioi erityisesti tiedostojen vaaditut nimet (.fits ja .dat)
 
 ```
 ▶ python pipe_process2_cleaned.py {UVB,VIS,NIR} {yes,no} {w1} {w2} {step}
