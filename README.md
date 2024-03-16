@@ -1,5 +1,4 @@
-## Kansio sisältää:
-* Opintojen aikana tuotettuja scriptejä  tähtitieteeseen liittyen
+## Kansiot sisältävät Opintojen aikana tuotettuja scriptejä tähtitieteeseen liittyen:
 
 Kaikissa scripteissä ei ole mitenkään kovin hyvät kommentit/ohjeet -- omaan käyttöön kaikki kuitenkin.
 
